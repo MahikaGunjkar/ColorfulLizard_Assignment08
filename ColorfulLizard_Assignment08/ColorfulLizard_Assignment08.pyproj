@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>ColorfulLizard_Assignment08</Name>
     <RootNamespace>ColorfulLizard_Assignment08</RootNamespace>
+    <InterpreterId>Global|PythonCore|3.12</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -42,6 +43,9 @@
     <Folder Include="lightPackage\" />
     <Folder Include="mainPackage\" />
     <Folder Include="speaker package\" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.12" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
