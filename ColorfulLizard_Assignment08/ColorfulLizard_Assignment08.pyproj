@@ -42,6 +42,7 @@
   <ItemGroup>
     <Folder Include="lightPackage\" />
     <Folder Include="mainPackage\" />
+    <Folder Include="speaker package\" />
     <Folder Include="speakerPackage\" />
   </ItemGroup>
   <ItemGroup>
