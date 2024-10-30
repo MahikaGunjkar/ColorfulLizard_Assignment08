@@ -14,15 +14,15 @@
 #light.py
 
 class SmartLight:
-    def _init_(self, brightness=50, color="Warm White", is_on=False):
+    def __init__(self, brightness=50, color="Warm White", is_on=False):
         self._brightness = brightness
         self._color = color
         self._is_on = is_on
 
-    def _str_(self):
+    def __str__(self):
         return f"SmartLight(brightness={self._brightness}, color={self._color}, is_on={self._is_on})"
 
-    def _repr_(self):
+    def __repr__(self):
         return f"SmartLight({self._brightness}, '{self._color}', {self._is_on})"
 
     @property
