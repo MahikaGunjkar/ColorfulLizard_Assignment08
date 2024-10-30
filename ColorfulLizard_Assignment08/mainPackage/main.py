@@ -1,8 +1,8 @@
 
-main.py
-  from smart_home.light import SmartLight
-from smart_home.thermostat import Thermostat
-from smart_home.speaker import SmartSpeaker
+ #main.py
+from lightPackage import *
+from speakerPackage import *
+
 
 if __name__ == "__main__":
   

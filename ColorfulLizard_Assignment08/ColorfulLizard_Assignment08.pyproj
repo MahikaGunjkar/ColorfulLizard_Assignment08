@@ -35,14 +35,14 @@
     <Compile Include="speaker package\speaker.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="speaker package\__init__.py">
+    <Compile Include="speakerPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="lightPackage\" />
     <Folder Include="mainPackage\" />
-    <Folder Include="speaker package\" />
+    <Folder Include="speakerPackage\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.12" />
