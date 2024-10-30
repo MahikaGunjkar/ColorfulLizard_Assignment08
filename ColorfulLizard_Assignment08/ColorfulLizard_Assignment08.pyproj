@@ -32,7 +32,7 @@
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="speaker package\speaker.py">
+    <Compile Include="speakerPackage\speaker.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="speakerPackage\__init__.py">
@@ -42,7 +42,6 @@
   <ItemGroup>
     <Folder Include="lightPackage\" />
     <Folder Include="mainPackage\" />
-    <Folder Include="speaker package\" />
     <Folder Include="speakerPackage\" />
   </ItemGroup>
   <ItemGroup>
