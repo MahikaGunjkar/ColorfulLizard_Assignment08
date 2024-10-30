@@ -1,7 +1,7 @@
 
  #main.py
-from lightPackage import SmartLight
-from speakerPackage import SmartSpeaker
+from lightPackage.light import SmartLight
+from speakerPackage.speaker import *
 
 
 if __name__ == "__main__":
