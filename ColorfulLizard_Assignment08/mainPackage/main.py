@@ -1,6 +1,17 @@
+# Name: Mahika Gunjkar, Nandini Agrawal, Ishani Roy Chowdhury
+# email:  gunjkamg@mail.uc.edu, Agarwand@mail.uc.edu, roychoii@mail.uc.edu
+# Assignment Number: Assignment 08
+# Due Date:   10/31/2024
+# Course #/Section:  4010- 001
+# Semester/Year:   Fall 2024
+# Brief Description of the assignment:  Team assignment based on real-life example like home techonology. We wrote code to correlate a few home techonologies together
+
+# Brief Description of what this module does. This module is the main module and talks about all the prints statements and joints that are required.
+# Citations:
+# Anything else that's relevant:
 
  #main.py
-from lightPackage.light import SmartLight
+from lightPackage.light import *
 from speakerPackage.speaker import *
 
 
