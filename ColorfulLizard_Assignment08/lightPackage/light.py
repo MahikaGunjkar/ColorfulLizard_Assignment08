@@ -1,15 +1,14 @@
-# Name: {required}
-# email:  {required}
-# Assignment Number: Assignment nn  {required}
-# Due Date:   {required}
-# Course #/Section:   {required}
-# Semester/Year:   {required}
-# Brief Description of the assignment:  {required}
-
-# Brief Description of what this module does. {Do not copy/paste from a previous assignment. Put some thought into this. required}
+# Name: Mahika Gunjkar, Nandini Agrawal, Ishani Roy Chowdhury
+# email:  gunjkamg@mail.uc.edu, Agarwand@mail.uc.edu, roychoii@mail.uc.edu
+# Assignment Number: Assignment 08
+# Due Date:   10/31/2024
+# Course #/Section:  4010- 001
+# Semester/Year:   Fall 2024
+# Brief Description of the assignment:  Team assignment based on real-life example like home techonology. We wrote code to correlate a few home techonologies together
+# Brief Description of what this module does. This module defines a SmartLight class representing a smart light device with customizable settings. The smartLight has Toggle Power which used to turn the light on or off, 
+#Adjust brightness to Set the level within a range of 0 to 100, Change the color to Modify the color of the light. This module helps in the creation and the control of the smart light objects and helps to make it ideal for use in home automation systems
 # Citations:
 # Anything else that's relevant:
-
  
 #light.py
 
